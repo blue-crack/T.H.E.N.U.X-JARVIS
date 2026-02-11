@@ -89,9 +89,10 @@ Your executable will be in `dist/THENUX.exe`
 
 ## Documentation
 
-- **FEATURES_GUIDE.md** - Complete features guide with examples
-- **QUICKSTART.md** - Get started in 5 minutes
-- **BUILD_GUIDE.md** - Building the EXE
+- **[FEATURES_GUIDE.md](FEATURES_GUIDE.md)** - Complete features guide with examples
+- **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
+- **[BUILD_GUIDE.md](BUILD_GUIDE.md)** - Building the EXE
+- **[CHANGELOG_v2.0.md](CHANGELOG_v2.0.md)** - SHOW UPDATES
 
 ## License
 
