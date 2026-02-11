@@ -1,0 +1,15 @@
+# THENUX - Advanced AI Assistant
+# Installation: pip install -r REQUIREMENTS.txt
+
+sounddevice
+soundfile
+vosk
+edge-tts
+google-search-results
+Pillow
+requests
+pyautogui
+
+# For system control (volume)
+pycaw
+comtypes
